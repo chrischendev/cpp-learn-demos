@@ -1,0 +1,4 @@
+"E:\SoftCenter\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\Workspace\CPP\cpp-learn-demos\cpp-tech-demo
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug

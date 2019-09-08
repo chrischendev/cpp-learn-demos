@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp_tech_demo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_tech_demo">
+				<Option output="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/cpp_tech_demo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_tech_demo"/>
+					<CompileFile command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_tech_demo/fast">
+				<Option output="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/cpp_tech_demo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_tech_demo/fast"/>
+					<CompileFile command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/SoftCenter/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/cpp/User.cpp">
+			<Option target="cpp_tech_demo"/>
+		</Unit>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/h/User.h">
+			<Option target="cpp_tech_demo"/>
+		</Unit>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/main.cpp">
+			<Option target="cpp_tech_demo"/>
+		</Unit>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/IoTest.cpp">
+			<Option target="cpp_tech_demo"/>
+		</Unit>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/IoTest.h">
+			<Option target="cpp_tech_demo"/>
+		</Unit>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/UserTest.cpp">
+			<Option target="cpp_tech_demo"/>
+		</Unit>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/UserTest.h">
+			<Option target="cpp_tech_demo"/>
+		</Unit>
+		<Unit filename="F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
