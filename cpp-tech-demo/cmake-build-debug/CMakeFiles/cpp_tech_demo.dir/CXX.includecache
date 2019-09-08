@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/h/User.h
-string
--
-
-F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/UserTest.cpp
+F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/IoTest.cpp
+IoTest.h
+F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/IoTest.h
 iostream
 -
-../h/User.h
-F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/h/User.h
-UserTest.h
-F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/UserTest.h
+fstream
+-
 
-F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/UserTest.h
+F:/Workspace/CPP/cpp-learn-demos/cpp-tech-demo/test/IoTest.h
 

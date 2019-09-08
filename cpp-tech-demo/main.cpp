@@ -4,7 +4,7 @@
 
 int main() {
 //    std::cout << "Hello, World!" << std::endl;
-    UserTest::mainTest();
-//    IoTest::mainTest();
+//    UserTest::mainTest();
+    IoTest::mainTest();
     return 0;
 }

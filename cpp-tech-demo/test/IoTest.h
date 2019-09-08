@@ -11,6 +11,8 @@ public:
     static void mainTest();
 
     static void test01();
+
+    static void test02();
 };
 
 
